@@ -11,7 +11,7 @@ description: "Khóa học Data Science"
 <!--chapter:end:index.Rmd-->
 
 
-# Khóa Phân tích dữ liệu chuỗi thời gian 
+# Phân tích dữ liệu chuỗi thời gian 
 
 ## Tuần 1: Giới thiệu cơ bản về Dữ liệu chuỗi thời gian {-}
 
@@ -71,6 +71,7 @@ description: "Khóa học Data Science"
 
 
 ## Tuần 4: Các thuật toán dự đoán mô hình nâng cao  {-}
+
 - Mô hình cây trong Dự đoán chuỗi thời gian
     - Một số phương pháp tạo đặc trưng mới từ dữ liệu đã có
     - Huấn luyện mô hình cây cho dữ liệu nhiều chuỗi thời gian
@@ -93,8 +94,8 @@ description: "Khóa học Data Science"
 - Phương pháp sử dụng máy học
     - Sử dụng máy học có giám sát để phân loại điểm bất thường
     - Phân đoạn vùng bất thường bằng phương pháp clustering
-## Tuần 7: Sử dụng một số thư viện Forecasting {-}
 
+## Tuần 7: Sử dụng một số thư viện Forecasting {-}
 - TSLearn
 - MLForeacasting
 - Prophet

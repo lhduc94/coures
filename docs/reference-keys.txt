@@ -1,9 +1,0 @@
-tuân-1-giơi-thiêu-cơ-ban-vê-dư-liêu-chuôi-thơi-gian
-tuân-2-arima-model
-tuân-3-var-model-arch-model-hierachical
-tuân-4-mô-hinh-cây-va-deep-learning
-tuân-5-mô-hinh-phân-tich-sông-sot-survival-analysis
-tuân-6-anomaly-detection
-tuân-7-sư-dung-môt-sô-thư-viên-forecasting
-tuân-1-mlflow
-tuân-2-airlfow

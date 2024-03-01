@@ -12,7 +12,6 @@ description: "Khóa học Data Science"
 
 <!--chapter:end:index.Rmd-->
 
-
 # Phân tích dữ liệu chuỗi thời gian {-}
 
 ## Tuần 1: Giới thiệu cơ bản về Dữ liệu chuỗi thời gian {-}

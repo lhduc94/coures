@@ -7,5 +7,3 @@ output: bookdown::gitbook
 documentclass: book
 description: "Khóa học Data Science"
 ---
-
-# Lời nói đầu {-}

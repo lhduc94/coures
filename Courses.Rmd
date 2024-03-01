@@ -8,8 +8,6 @@ documentclass: book
 description: "Khóa học Data Science"
 ---
 
-# Lời nói đầu {-}
-
 <!--chapter:end:index.Rmd-->
 
 # Phân tích dữ liệu chuỗi thời gian {-}

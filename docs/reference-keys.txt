@@ -8,4 +8,4 @@ tuân-6-anomaly-detection
 tuân-7-sư-dung-môt-sô-thư-viên-forecasting
 triên-khai-machine-learning
 tuân-1-mlflow
-tuân-2
+tuân-2-airlfow

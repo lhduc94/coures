@@ -1,12 +1,12 @@
 # Triển khai Machine Learning
 
-## Tuần 1: MLFLOW
+## Tuần 1: mlflow
 
 - Giới thiệu mlflow
     - mlflow là gì
     - hướng dẫn cài đặt mlflow
 - Tracking trong mlflow
-    -  Các thành phần
+    -  Các thành phần trong tracking
         - parameters
         - metrics
         - artifacts
@@ -21,4 +21,18 @@
     - Triển khai mô hình
 
     
-## Tuần 2: 
+## Tuần 2: airlfow
+
+- Giới thiệu airflow
+    - Airflow là gì
+    - Các khái niệm trong airflow
+        - Task
+        - Task instance
+        - DAG
+        - DAG run
+    - Các thành phần trong airflow
+        - Web server
+        - Scheduler
+        - Executor
+        - Metadata database
+    - Hướng dẫn cài đặt airflow

@@ -1,0 +1,24 @@
+# Triển khai Machine Learning
+
+## Tuần 1: MLFLOW
+
+- Giới thiệu mlflow
+    - mlflow là gì
+    - hướng dẫn cài đặt mlflow
+- Tracking trong mlflow
+    -  Các thành phần
+        - parameters
+        - metrics
+        - artifacts
+        - source code
+    - Các bước thực hiện cơ bản
+        - Thiết lập thí nghiệm
+        - Huấn luyện mô hình và lưu các tham số
+        - Truy vấn các thí nghiệm
+    - So sánh các thí nghiệm với nhau
+- Quản lý các phiên bản mô hình và triển khai sản phẩm
+    - Quản lý các phiên bản mô hình
+    - Triển khai mô hình
+
+    
+## Tuần 2: 

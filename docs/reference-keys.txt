@@ -6,3 +6,6 @@ tuân-4-mô-hinh-cây-va-deep-learning
 tuân-5-mô-hinh-phân-tich-sông-sot-survival-analysis
 tuân-6-anomaly-detection
 tuân-7-sư-dung-môt-sô-thư-viên-forecasting
+triên-khai-machine-learning
+tuân-1-mlflow
+tuân-2

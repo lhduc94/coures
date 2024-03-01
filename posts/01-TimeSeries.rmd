@@ -1,7 +1,7 @@
 
-# Khóa Phân tích dữ liệu chuỗi thời gian {-#my-section}
+# Khóa Phân tích dữ liệu chuỗi thời gian 
 
-## Tuần 1: Giới thiệu cơ bản về Dữ liệu chuỗi thời gian
+## Tuần 1: Giới thiệu cơ bản về Dữ liệu chuỗi thời gian {-}
 
 - Giới thiệu chuỗi thời gian
     - Chuỗi thời gian là gì
@@ -21,7 +21,7 @@
     - Phân loại chuỗi thời gian
     - Phân đoạn chuỗi thời gian
 
-## Tuần 2: ARIMA model
+## Tuần 2: ARIMA model {-}
 
 - Tính dừng và Làm mịn chuỗi thời gian
     - Tính dừng là gì
@@ -37,24 +37,24 @@
     - ARMA, ARIMA
 - Sử dụng ARIMA bằng Python
 
-## Tuần 3: VAR model, ARCH model, Hierachical 
+## Tuần 3: VAR model, ARCH model, Hierachical  {-}
 
 - Phân tích dữ liệu chuỗi thời gian đa biến 
 - Các mô hình phương sai có điều kiện
 - Dữ liệu chuỗi thời gian dạng thứ bậc
 
 
-## Tuần 4: Mô hình cây và Deep Learning 
+## Tuần 4: Mô hình cây và Deep Learning  {-}
 
 - Mô hình cây trong Dự đoán chuỗi thời gian
 - Deep Learning trong Dự đoán chuỗi thời gian
 
 
-## Tuần 5: Mô hình phân tích Sống Sót (Survival Analysis)
+## Tuần 5: Mô hình phân tích Sống Sót (Survival Analysis) {-}
 
-## Tuần 6: Anomaly Detection
+## Tuần 6: Anomaly Detection {-}
 
-## Tuần 7: Sử dụng một số thư viện Forecasting
+## Tuần 7: Sử dụng một số thư viện Forecasting {-}
 
 - TSLearn
 - MLForeacasting

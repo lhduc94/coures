@@ -1,6 +1,6 @@
-# Triển khai Machine Learning {-#my-section}
+# Triển khai Machine Learning {-}
 
-## Tuần 1: mlflow
+## Tuần 1: mlflow {-}
 
 - Giới thiệu mlflow
     - mlflow là gì
@@ -21,7 +21,7 @@
     - Triển khai mô hình
 
     
-## Tuần 2: airlfow
+## Tuần 2: airlfow {-}
 
 - Giới thiệu airflow
     - Airflow là gì

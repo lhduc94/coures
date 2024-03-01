@@ -13,7 +13,7 @@ description: "Khóa học Data Science"
 <!--chapter:end:index.Rmd-->
 
 
-# Khóa Phân tích dữ liệu chuỗi thời gian 
+# Phân tích dữ liệu chuỗi thời gian {-}
 
 ## Tuần 1: Giới thiệu cơ bản về Dữ liệu chuỗi thời gian {-}
 
@@ -76,9 +76,9 @@ description: "Khóa học Data Science"
 
 <!--chapter:end:posts/01-TimeSeries.rmd-->
 
-# Triển khai Machine Learning {-#my-section}
+# Triển khai Machine Learning {-}
 
-## Tuần 1: mlflow
+## Tuần 1: mlflow {-}
 
 - Giới thiệu mlflow
     - mlflow là gì
@@ -99,7 +99,7 @@ description: "Khóa học Data Science"
     - Triển khai mô hình
 
     
-## Tuần 2: airlfow
+## Tuần 2: airlfow {-}
 
 - Giới thiệu airflow
     - Airflow là gì

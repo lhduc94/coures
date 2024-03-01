@@ -13,7 +13,7 @@ description: "Khóa học Data Science"
 <!--chapter:end:index.Rmd-->
 
 
-# Phân tích dữ liệu chuỗi thời gian 
+# Phân tích dữ liệu chuỗi thời gian {-}
 
 ## Tuần 1: Giới thiệu cơ bản về Dữ liệu chuỗi thời gian {-}
 
@@ -104,7 +104,7 @@ description: "Khóa học Data Science"
 
 <!--chapter:end:posts/01-TimeSeries.rmd-->
 
-# Triển khai Machine Learning
+# Triển khai Machine Learning {-}
 
 ## Tuần 1: mlflow {-}
 

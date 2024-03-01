@@ -143,5 +143,18 @@ description: "Khóa học Data Science"
         - Metadata database
     - Hướng dẫn cài đặt airflow
 
+- Hướng dẫn viết DAG cho Datapipeline
+    - lập lịch xử lý dữ liệu
+    - lập lịch huấn luyện mô hình
+    - lập lịch monitor kết quả mô hình
+
+## Tuần 3: Triển khai mô hình dạng Webservice với FastAPI
+
+- Giới thiệu FastAPI là gì
+- Triển khai Machine Learning Service bằng FastAPI và Pydantic
+
+## Tuần 4: Docker
+
+
 <!--chapter:end:posts/02-Development.rmd-->
 

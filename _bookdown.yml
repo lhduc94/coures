@@ -1,7 +1,7 @@
 book_filename: "Courses"
 language:
   ui:
-    chapter_name: "Chương "
+    chapter_name: "Khóa học "
 delete_merged_file: true
 rmd_subdir: ["posts"]
 output_dir: "docs"
